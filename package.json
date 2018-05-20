@@ -1,0 +1,11 @@
+{
+    "name":            "hutty-discord-bot",
+    "version":        "0.1.0",
+    "main":            "bot.js",
+    "scripts":    {
+        "start":    "node bot.js"
+    },
+    "dependencies":    {
+        "discordie":    "0.11.0"
+    }
+}
